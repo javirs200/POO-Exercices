@@ -1,0 +1,12 @@
+{
+  "name": "poo-exercices",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "scripts": {
+    "start": "node app.js"    
+  }
+}
